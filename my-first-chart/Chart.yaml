@@ -1,0 +1,4 @@
+apiVersion: v2
+name: my-first-chart
+version: 1.0.0
+icon: https://www.pngkey.com/png/detail/180-1800743_hank-hill.png
